@@ -4,7 +4,7 @@
 I'm just a lazy bum, interested in doing whatever catches my interest.
 
 ## 🛠 Skills
-- Scripting Language: Batch
+- Scripting Language: Batch (still learning)
 - Programming Languages: Python (still learning)
 
 ## 💖 Support my work
